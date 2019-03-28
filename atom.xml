@@ -1,20 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>博爱</title>
+  <title></title>
   
-  <subtitle>温故而知新</subtitle>
+  <subtitle>一件事做到极致</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-27T23:11:01.229Z</updated>
+  <updated>2019-03-28T02:44:20.341Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>YZY</name>
+    <name>杨泽宇</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo添加分类和标签</title>
+    <link href="http://yoursite.com/2019/03/28/hexo%E6%B7%BB%E5%8A%A0%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE/"/>
+    <id>http://yoursite.com/2019/03/28/hexo添加分类和标签/</id>
+    <published>2019-03-28T02:43:44.000Z</published>
+    <updated>2019-03-28T02:44:20.341Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
+    
+    
+      <category term="hexo添加分类和标签" scheme="http://yoursite.com/tags/hexo%E6%B7%BB%E5%8A%A0%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>mysql事件开启和调用</title>

@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>hexo添加分类和标签</title>
+      <link href="/2019/03/28/hexo%E6%B7%BB%E5%8A%A0%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE/"/>
+      <url>/2019/03/28/hexo%E6%B7%BB%E5%8A%A0%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo添加分类和标签 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>mysql事件开启和调用</title>
       <link href="/2019/03/26/mysql%E4%BA%8B%E4%BB%B6%E5%BC%80%E5%90%AF%E5%92%8C%E8%B0%83%E7%94%A8/"/>
       <url>/2019/03/26/mysql%E4%BA%8B%E4%BB%B6%E5%BC%80%E5%90%AF%E5%92%8C%E8%B0%83%E7%94%A8/</url>
